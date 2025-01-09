@@ -6,7 +6,7 @@ In this project, I developed a comprehensive **Security Operations Center (SOC)*
 
 **Video:** [YouTube](https://youtu.be/N6xHx_H27Vk)
 
-**Completed:** January 2023
+**Completed:** December 2023
 
 ## Security Operations Center
 
